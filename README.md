@@ -43,9 +43,6 @@ The app uses a `.env` file to securely manage the OpenWeatherMap API key.
 1. Launch the application.
 2. Enter the name of a city and click the **Search** button to retrieve weather data.
 
-## **Screenshots**
-*(Add a screenshot or GIF of the app here)*
-
 ## **Project Structure**
 - `app.py`: Main application file containing the GUI and weather logic.
 - `.env`: File for securely storing environment variables (e.g., API key).
